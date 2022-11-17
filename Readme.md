@@ -8,3 +8,4 @@ References are:
 - https://www.djangoproject.com/start/
 -  https://www.codeply.com/p/LdGGsLUxBt
 - https://codepen.io/PaulinaSurazynska/pen/bGVpBOb
+- https://github.com/django/djangoproject.com/search?q=theme-toggle
