@@ -1,0 +1,11 @@
+/* Dark-Light Toggle btn css*/
+      .labelDL {width: 50px;height: 26px;background-color:#111;display: flex;border-radius:50px;align-items: center;justify-content: space-between;padding: 5px;position: relative;}
+ 
+      .ball {width: 20px;height: 20px;background-color: white;position: absolute;top: 2px;left: 2px;border-radius: 50%;transition: transform 0.2s linear;}
+      .toggleDL{right: 25px}
+
+/*  target the elemenent after the label*/
+      .checkboxDL:checked + .labelDL .ball{transform: translateX(24px);}
+      .fa-moon {color: pink;}
+      .fa-sun {color: yellow;}
+      .checkboxDL {opacity: 0;position: absolute;}
