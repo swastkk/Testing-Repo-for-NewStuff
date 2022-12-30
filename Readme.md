@@ -9,3 +9,4 @@ References are:
 -  https://www.codeply.com/p/LdGGsLUxBt
 - https://codepen.io/PaulinaSurazynska/pen/bGVpBOb
 - https://github.com/django/djangoproject.com/search?q=theme-toggle
+- https://blog.openreplay.com/implementing-dark-mode-with-bulma/ (for bulma library)
